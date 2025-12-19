@@ -279,7 +279,7 @@ This includes (but is not limited to):
 
 If you want to use HI-AI commercially, you must obtain a license.
 
-📧 Contact: **plegaspi79.com**    *legaspi79.com webpage*** 
+📧 Contact: **paul@legaspi79.com**
 
 I built this for my family first.  
 If someone makes money off it, I want my cut.
