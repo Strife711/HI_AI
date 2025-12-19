@@ -61,7 +61,7 @@ You can use it, modify it, share it with friends — no restrictions.
 
 Commercial use — including bundling in paid Linux distributions, selling hardware with HI-AI pre-installed, or offering it as a service — requires a paid license.
 
-Contact: paul@legaspi79.com or www.legaspi79.com
+Contact: plegaspi79@gmail.com or www.legaspi79.com
 
 I built this for my family first. If someone makes money off it, I want my cut.
 
