@@ -322,25 +322,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-nano ~/.local/bin/ai-cmd2
-# Paste the full script
-chmod +x ~/.local/bin/ai-cmd2
-ai-cmd2
