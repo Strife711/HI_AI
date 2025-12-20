@@ -1,5 +1,5 @@
 # HI-AI  
-**by Paul Legaspi**
+**by Paul Legaspi**  ( https://aboutai.legaspi79.com/ about hi-ai )
 
 I didn’t build HI-AI to chase AGI or win benchmarks.
 
